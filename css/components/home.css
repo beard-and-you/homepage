@@ -7,3 +7,20 @@
 	display: flex;
 	justify-content: space-around;
 }
+
+.home-account {
+    display: flex;
+    padding: 0% 13%;
+    justify-content: center;
+    margin:3% 0;
+    position: relative;
+}
+
+.accueil {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    
+}

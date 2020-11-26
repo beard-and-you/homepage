@@ -1,0 +1,172 @@
+.accueil {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 0%;
+    left: -20%;
+    
+}
+.product_container{
+	width: 900px;
+	position: relative;
+}
+.nav_navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    text-decoration: none;
+}
+
+.nav_navbar ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    padding: 16px;
+}
+
+.header{
+    background: url(img/background.png) no-repeat top center/cover;
+    height: 450px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header_0 {
+    padding-bottom: 300px;
+    margin-top: -180px;
+}
+
+.header .header_content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.icon-truck {
+    padding-right: 15px;
+    padding-left: 25px;
+    font-size: 40px;
+}
+
+.icon-search {
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.icon-user {
+    font-size: 45px;
+}
+
+.product_img {
+    height: 800px;
+    padding-top: 40px;
+
+}
+
+.btn_2 {
+    color: black;
+    background: radial-gradient(#4e4e4e, #000000);
+    padding: 10px 15px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+    margin-left: 43px;
+}
+
+.min_img {
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 5%;
+    vertical-align: top;
+    box-sizing: border-box;
+    float: left;
+}
+
+.min_img img {
+    margin-bottom: 20px;
+    width: 70px;
+	height: 70px;
+}
+
+.product {
+    display: flex;
+    margin-top: 50px;
+}
+
+.product img {
+    margin-left: 100px;
+    width: 550px; 
+    height: 550px; 
+    object-fit: cover; 
+}
+
+.describe {
+    margin-left: 40px;
+}
+
+.describe h1 {
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.describe h2 {
+    padding-top: 20px;
+    margin-left: 0px;
+    font-family: Arial;
+    font-weight: lighter;
+    font-size: 1em;
+}
+
+
+.star {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+}
+
+.icon-star-full {
+    font-size: 30px;
+}
+
+.icon-star-half {
+    font-size: 30px;
+}
+
+.icon-star-empty {
+    font-size: 30px;
+}
+
+.btn_add {
+    padding-top: 40px;
+}
+
+.btn_3 {
+    color: black;
+    background: radial-gradient(#4e4e4e, #000000);
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-question {
+    position: fixed;
+    padding-top: 935px;
+    padding-left: 1750px;
+}
+
+.btn_4 {
+    color: black;
+    background: radial-gradient(#4e4e4e, #000000);
+    padding: 15px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
