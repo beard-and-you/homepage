@@ -65,20 +65,6 @@ text-decoration: none;
 
 }
 
-.list-inline {
-	list-style: none;
-	padding-left: 0px;
-}
-
-.list-inline li {
-	display: inline;
-	padding: 20px;
-}
-
-.list-inline i {
-	font-size: 30px;
-	color: black;
-}
 
 
 
