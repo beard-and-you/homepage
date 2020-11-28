@@ -2,10 +2,19 @@
 	align-items: flex-end;
 	text-align: right;
 	float: top
-	hover: white;
+	list-style: none;
+	padding-left: 0px;
 }
 
-
-.list-inline i: hover {
+.list-inline li {
+	display: inline;
+	padding: 20px;
+	font-size: 30px;
+	color: black;
+}
+	
+.list-inline li: hover {
 	color: white;
-}
+
+
+
